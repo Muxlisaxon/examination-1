@@ -1,0 +1,265 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #181751;
+}
+
+nav {
+    margin-top: 50px;
+}
+
+.bir {
+    display: flex;
+}
+
+.iki {
+    color: #8176AF;
+    margin-top: 32px;
+    margin-left: 8px;
+}
+
+.list {
+    display: flex;
+    gap: 41px;
+    margin-top: 43px;
+    justify-content: center;
+
+}
+
+.list_item {
+    font-weight: 700;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.btn1 {
+    font-weight: 700;
+    font-size: 12px;
+    color: #FFFFFF;
+    padding: 16px 34px;
+    border: 2px solid #FFFFFF;
+    border-radius: 40px;
+    background: #181751;
+    margin-top: 20px;
+}
+
+
+.btn2 {
+    font-weight: 700;
+    font-size: 12px;
+    color: #343045;
+    padding: 16px 34px;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    border-radius: 40px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 38px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+.uch {
+    font-weight: 700;
+    font-size: 46px;
+    color: #FFFFFF;
+    padding-top: 60px;
+}
+
+.tort {
+    font-weight: 700;
+    font-size: 46px;
+    color: #FFFFFF;
+}
+
+h1 span {
+    color: #8176AF;
+}
+
+.besh {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 30px;
+}
+
+.btn3 {
+    font-weight: 700;
+    font-size: 12px;
+    color: #343045;
+    padding: 16px 34px;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    border-radius: 40px;
+}
+
+.aaaa {
+    width: 100%;
+    border-radius: 80px 57px 90px 319px;
+}
+
+section {
+    margin-top: 60px;
+    background: radial-gradient(50% 2900.76% at 50% 53.89%, rgba(58, 52, 86, 0.95) 0%, #211E2E 100%);
+    box-shadow: 0px 4px 4px rgba(192, 183, 232, 0.01);
+    border-radius: 90px;
+}
+
+.yeti {
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sakiz {
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+
+}
+
+.one {
+    font-weight: 300;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.rasimlar {
+    margin-left: 10px;
+}
+
+.katta_div {
+    margin-left: 85px;
+}
+
+.loca {
+    width: 50px;
+}
+
+.section1 {
+    margin-top: 90px;
+}
+
+.one1 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.one2 {
+    font-weight: 300;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.boy {
+    border-radius: 280px 90px 180px 57px;
+    margin-top: 50px;
+}
+
+.text {
+    color: white;
+}
+
+.text1 {
+    color: white;
+    margin-top: 50px;
+}
+
+.a1 {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+    margin-top: 150px;
+}
+
+.a2 {
+    font-weight: 300;
+    font-size: 36px;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.rrrr {
+    border-radius: 50%;
+    width: 80%;
+    margin-left: 30px;
+}
+
+.ss {
+    color: white;
+    margin-top: 21px;
+}
+
+.card {
+    border-radius: 40px;
+    background: radial-gradient(50% 50% at 50% 50%, #433D60 0%, #211E2E 100%);
+    border-radius: 40px;
+    padding: 23px 35px 40px 25px;
+}
+
+.section2 {
+    margin-top: 100px;
+}
+
+.btn4 {
+    margin-top: 35px;
+    font-weight: 700;
+    font-size: 12px;
+    color: #343045;
+    padding: 16px 39px;
+    background: linear-gradient(90deg, #8176AF 0%, #C0B7E8 100%);
+    border-radius: 40px;
+}
+
+.section3 {
+    margin-top: 100px;
+    background: url(./img/nav.png);
+    border-radius: 300px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+.key {
+    color: white;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.key2 {
+    font-weight: 300;
+    font-size: 36px;
+    color: #FFFFFF;
+
+}
+
+.ota {
+    text-align: center;
+}
+
+.section4 {
+    margin-top: 80px;
+}
+
+.section5 {
+    margin-top: 100px;
+}
+
+.HOw {
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+
+}
+
+.WOh {
+    font-weight: 300;
+    font-size: 36px;
+    color: #FFFFFF;
+}
